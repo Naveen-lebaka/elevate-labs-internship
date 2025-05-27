@@ -6,7 +6,7 @@ The **Global Profitability Dashboard** is an interactive **Power BI** report des
 ---
 
 ## 🖼️ Dashboard Screenshot  
-![Global Profitability Dashboard](Global_Profitability_Dashboard.png)  
+![Global Profitability Dashboard](Global_Profitability.png)
 
 ---
 
